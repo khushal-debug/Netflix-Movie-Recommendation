@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.model_selection import train_test_split
-df = pd.read_csv(r"C:\Users\khush\Downloads\netflix_titles.csv.zip")
+df = pd.read_csv("netflix_titles.csv.zip")
 print('head' ,df.head())
 # from ydata_profiling import ProfileReport
 # profile = ProfileReport(df, title="Netflix Data Profiling Report")
