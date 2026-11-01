@@ -16,19 +16,19 @@ Technologies Used
 
 6. Streamlit
 
-#How It Works
+# How It Works
 
--Loads the Netflix titles dataset.
+- Loads the Netflix titles dataset.
 
--Combines available metadata into text features.
+- Combines available metadata into text features.
 
--Converts text into numerical vectors using TF-IDF.
+- Converts text into numerical vectors using TF-IDF.
 
--Calculates similarity between titles using cosine similarity.
+- Calculates similarity between titles using cosine similarity.
 
--Displays recommended titles through a Streamlit interface.
+- Displays recommended titles through a Streamlit interface.
 
--Run Locally
+- Run Locally
 
 Install the dependencies:
 
